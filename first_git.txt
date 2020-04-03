@@ -1,3 +1,6 @@
 はじめてのGit
 基本的なことを学びます。
 追加の情報
+
+git add
+git commit
