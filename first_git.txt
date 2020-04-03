@@ -6,3 +6,5 @@ git add
 git commit
 
 追加情報
+git rm
+git status
